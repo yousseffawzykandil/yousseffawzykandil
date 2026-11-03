@@ -1,8 +1,8 @@
-CS student at Paris Cité University, admitted into M1 MIAGE — Valorisation & Protection des Données at Paris Cité University (Sept 2026) — a French Master's combining IS engineering, data and data protection.
+CS student in the final year of my Licence at Paris Cité University
 
-I like building things that actually work and make someone's job easier. At General Motors Egypt I shipped a full SQL system for a multinational supply chain from scratch and automated reports that saved 5 hours a week. That's the kind of work I want to keep doing.
+I like building things that actually work and make someone's job easier.  At MNT-Halan I turned a lending portfolio into a data story in Power BI, SQL and Python: who comes back, who leaves, where the risk sits and what we fail to collect. That's the kind of work I want to keep doing.
 
-🟢 Looking for an alternance in Data Analytics or Data Science — September 2026
+🟢 Looking for an alternance in Data / BI Analytics — September 2027
 
 ---
 
@@ -10,9 +10,8 @@ I like building things that actually work and make someone's job easier. At Gene
 
 | Degree | School | Period |
 |--------|--------|--------|
-| M1 MIAGE — Valorisation & Protection des Données (admitted) | Paris Cité University | Sept 2026 → 2028 |
-| L3 Computer Science | Paris Cité University | 2023 → 2026 |
-| French Baccalaureate — Maths, Physics, Economics · 15.7/20 | Misr Language School | 2009 → 2023 |
+| L3 Computer Science (final year) | Paris Cité University | 2023 → 2027 (expected) |
+| French Baccalaureate — Maths, Physics, Chemistry, Economics · Mention Bien 15.7/20 | Misr Language School | 2018 → 2021 |
 
 ---
 
@@ -20,7 +19,7 @@ I like building things that actually work and make someone's job easier. At Gene
 
 **Data & Analysis**
 
-`SQL` `Python` `Pandas` `NumPy` `Power BI` `Excel` `ETL`
+`SQL` `PostgreSQL` `Python` `Pandas` `NumPy` `Matplotlib` `Jupyter` `Power BI` `Excel` `ETL`
 
 **Development**
 
@@ -33,6 +32,32 @@ I like building things that actually work and make someone's job easier. At Gene
 ---
 
 ## 💼 Experience
+
+### MNT-Halan — Data Analyst Intern · Sept – Nov 2026
+*Egypt's first fintech unicorn · Cairo*
+
+| Metric | Result | How |
+|--------|--------|-----|
+| 📊 3 pages | interactive Power BI report | issuance, portfolio and collection, built as a data story with insight headlines for management |
+| 🔁 28% → 12% → 7% | churn after one, two, three or more loans | PostgreSQL with CTEs and window functions on loan data |
+| ⚠️ PAR 30/90 | portfolio risk, write-offs and collection rate | by branch, loan size and loan term; SQL summary tables wired to the company filter |
+| 🐍 1,000 loans · 14,920 installments | same demo dataset rebuilt in Python | pandas and Matplotlib: validated joins, a reusable KPI function, a one-page dashboard |
+
+Improved the report from a first draft into a decision-oriented story using my mentor's feedback. Project: [Halan Lending Portfolio (Power BI + SQL + Python)](https://github.com/yousseffawzykandil/REPLACE-WITH-REPO-NAME)
+
+---
+
+### CI Capital — Finance & Data Intern · Research & Investment Banking · Aug 2025
+*Leading Egyptian investment bank and financial services group · Cairo*
+
+| Metric | Result | How |
+|--------|--------|-----|
+| 📈 2 weeks | Research team, Asset Management | financial spreading and valuation analysis in Excel, using historical financial statements and sector metrics to support asset allocation |
+| 🏦 2 weeks | Investment Banking department | investor pitch decks in PowerPoint: valuation multiples, transaction comparables and growth drivers |
+
+My first look at how finance teams read a company, which is why I like putting credit and portfolio data in a financial context.
+
+---
 
 ### General Motors Egypt — Data & Database Intern · Supply Chain · July 2025
 
@@ -51,11 +76,12 @@ First real taste of shipping something a whole team depends on every day. I like
 
 | # | Project | What it does | Stack |
 |---|---------|--------------|-------|
-| 01 | Real-Time KPI Analytics Engine | Tracks 6 live KPIs with automated aggregation — zero manual updates. Equivalent to an ETL pipeline feeding a live dashboard | Java · HashMap · MVC · File I/O |
-| 02 | Distributed Task Scheduler | Cron-style daemon-client in C — no libraries, IPC via named pipes, full signal handling, 100% test coverage, zero data loss | C · Unix · IPC · Systems |
-| 03 | SAT Solver — DPLL Algorithm | Full DPLL in OCaml with unit propagation, pure literal elimination and CNF simplification | OCaml · Functional · Dune |
-| 04 | Liquid Wars — RTS Game | Java 21 virtual threads → ~60% throughput gain. Graph pathfinding for dynamic unit navigation | Java 21 · Threads · JUnit |
-| 05 | Cell Machine Simulation | Strict MVC, complex execution cycles, priority handling for collisions, Java Swing GUI | Java · MVC · Design patterns |
+| 01 | [Halan Lending Portfolio](https://github.com/yousseffawzykandil/REPLACE-WITH-REPO-NAME) | Churn, risk and collection analysis of a demo loan portfolio: SQL queries, a multi-page Power BI report and a Python dashboard | PostgreSQL · Power BI · pandas · Matplotlib |
+| 02 | Real-Time KPI Analytics Engine | Tracks 6 live KPIs with automated aggregation — zero manual updates. Equivalent to an ETL pipeline feeding a live dashboard | Java · HashMap · MVC · File I/O |
+| 03 | Distributed Task Scheduler | Cron-style daemon-client in C — no libraries, IPC via named pipes, full signal handling, 100% test coverage, zero data loss | C · Unix · IPC · Systems |
+| 04 | SAT Solver — DPLL Algorithm | Full DPLL in OCaml with unit propagation, pure literal elimination and CNF simplification | OCaml · Functional · Dune |
+| 05 | Liquid Wars — RTS Game | Java 21 virtual threads → ~60% throughput gain. Graph pathfinding for dynamic unit navigation | Java 21 · Threads · JUnit |
+| 06 | Cell Machine Simulation | Strict MVC, complex execution cycles, priority handling for collisions, Java Swing GUI | Java · MVC · Design patterns |
 
 ---
 
@@ -63,9 +89,10 @@ First real taste of shipping something a whole team depends on every day. I like
 
 ```python
 learning    = ["Power BI advanced", "Machine Learning", "Data pipelines at scale"]
-next_step   = "M1 MIAGE @ Paris Cité University · Sept 2026"
-looking_for = "Alternance · Data Analytics / Data Science · 12–24 mois"
+next_step   = "Finish the L3, then M1 MIAGE @ Paris Cité University"
+looking_for = "Alternance · Data / BI Analytics · from Sept 2027 · 12–24 mois"
 languages   = ["French (C2)", "English (C1)", "Arabic (native)"]
+outside_code = "Competitive swimming · 10 years of club training and regional championships"
 ```
 
 ---
@@ -75,5 +102,5 @@ languages   = ["French (C2)", "English (C1)", "Arabic (native)"]
 If you're hiring for a data alternance or just want to chat — reach out:
 
 📧 youssefmohamedfawzykandil@gmail.com  
-💼 [linkedin.com/in/youssef-fawzy-107b33363](https://linkedin.com/in/youssef-fawzy-107b33363)  
+💼 [linkedin.com/in/youssef-fawzy-107b33363](https://www.linkedin.com/in/youssef-fawzy-107b33363)  
 📍 Paris, France · I respond fast.
