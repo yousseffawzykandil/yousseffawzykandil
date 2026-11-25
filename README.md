@@ -94,3 +94,11 @@ next_step   = "Finish the L3, then M1 MIAGE @ Paris Cité University"
 looking_for = "Alternance · Data / BI Analytics · from Sept 2027 · 12–24 mois"
 languages   = ["French (C2)", "English (C1)", "Arabic (native)"]
 outside_code = "Competitive swimming · 10 years of club training and regional championships"
+📬 Let's talk
+If you're hiring for a data alternance or just want to chat — reach out:
+
+📧 youssefmohamedfawzykandil@gmail.com
+
+💼 linkedin.com/in/youssef-fawzy-107b33363
+
+📍 Paris, France · I respond fast.
