@@ -42,6 +42,7 @@ I like building things that actually work and make someone's job easier.  At MNT
 | 🔁 28% → 12% → 7% | churn after one, two, three or more loans | PostgreSQL with CTEs and window functions on loan data |
 | ⚠️ PAR 30/90 | portfolio risk, write-offs and collection rate | by branch, loan size and loan term; SQL summary tables wired to the company filter |
 | 🐍 1,000 loans · 14,920 installments | same demo dataset rebuilt in Python | pandas and Matplotlib: validated joins, a reusable KPI function, a one-page dashboard |
+| 🚀 Growth Team (Nov 2026) | consumer finance portfolio & channel analysis | analysed monthly principal, risk-adjusted return (RAR), and App vs. Portal trends across customer segments; flagged data caveats and built an executive PowerPoint deck + Excel workbook with growth recommendations |
 
 Improved the report from a first draft into a decision-oriented story using my mentor's feedback. Project: [Halan Lending Portfolio (Power BI + SQL + Python)](https://github.com/yousseffawzykandil/REPLACE-WITH-REPO-NAME)
 
@@ -93,14 +94,3 @@ next_step   = "Finish the L3, then M1 MIAGE @ Paris Cité University"
 looking_for = "Alternance · Data / BI Analytics · from Sept 2027 · 12–24 mois"
 languages   = ["French (C2)", "English (C1)", "Arabic (native)"]
 outside_code = "Competitive swimming · 10 years of club training and regional championships"
-```
-
----
-
-## 📬 Let's talk
-
-If you're hiring for a data alternance or just want to chat — reach out:
-
-📧 youssefmohamedfawzykandil@gmail.com  
-💼 [linkedin.com/in/youssef-fawzy-107b33363](https://www.linkedin.com/in/youssef-fawzy-107b33363)  
-📍 Paris, France · I respond fast.
